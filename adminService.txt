@@ -2,4 +2,4 @@ Admin related tasks
 
 manage Databases
 change 1
-change 2 in my database
+change 2 in user's Databases
